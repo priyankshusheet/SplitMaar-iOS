@@ -17,3 +17,7 @@ Technologies Used:
 * SwiftUI: Modern, declarative UI framework for iOS development.
 * Xcode: Development environment for macOS.
 * Swift: Programming language for iOS development.
+
+ 
+<img width="365" alt="Screenshot 2024-07-13 at 11 54 11 PM" src="https://github.com/user-attachments/assets/88bc13e8-e67e-4eb5-8c20-356e4eebe37c">
+<img width="382" alt="Screenshot 2024-07-13 at 11 54 24 PM" src="https://github.com/user-attachments/assets/adef9004-3910-427a-a349-2f779b89528c">
